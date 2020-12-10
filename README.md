@@ -1,5 +1,5 @@
 
-## About S-cart
+## About Nshp
 Nshp e-commerce: Free open source for businesses, built on the Laravel framework.
 Our highest goals are aimed at general users:
 - Customers do not need to know much about technology.
